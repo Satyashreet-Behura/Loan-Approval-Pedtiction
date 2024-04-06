@@ -23,14 +23,3 @@ This repository contains a classification problem focused on predicting whether 
 ### Project Objective
 
 The main objective of this project is to develop a machine learning model that accurately predicts whether a loan application will be approved or rejected based on the provided features. By analyzing historical data and applying various classification algorithms, we aim to create a robust predictive model that lending institutions can utilize to automate and streamline their loan approval process.
-
-
-
-- [Your Name] - [Your GitHub Profile](https://github.com/your-profile)
-
-### Acknowledgments
-
-Special thanks to [DataCamp](https://www.datacamp.com/) for providing the dataset and inspiration for this project.
-
----
-Feel free to customize this README according to your preferences and project specifics!
